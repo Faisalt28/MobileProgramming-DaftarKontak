@@ -34,7 +34,6 @@ const styles = StyleSheet.create({
     padding: 20,
     backgroundColor: 'white',
     borderRadius: 10,
-    alignItems: 'flex-start',
   },
   img: {
     width: 150,
